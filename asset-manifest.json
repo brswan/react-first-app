@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/brswan/react-first-app/static/js/main.88b3e471.chunk.js",
+    "main.js.map": "/brswan/react-first-app/static/js/main.88b3e471.chunk.js.map",
+    "runtime-main.js": "/brswan/react-first-app/static/js/runtime-main.7e23e02a.js",
+    "runtime-main.js.map": "/brswan/react-first-app/static/js/runtime-main.7e23e02a.js.map",
+    "static/css/2.5a4baa08.chunk.css": "/brswan/react-first-app/static/css/2.5a4baa08.chunk.css",
+    "static/js/2.0011b201.chunk.js": "/brswan/react-first-app/static/js/2.0011b201.chunk.js",
+    "static/js/2.0011b201.chunk.js.map": "/brswan/react-first-app/static/js/2.0011b201.chunk.js.map",
+    "index.html": "/brswan/react-first-app/index.html",
+    "precache-manifest.e119cbf4a3cfece90559cd95f02125d2.js": "/brswan/react-first-app/precache-manifest.e119cbf4a3cfece90559cd95f02125d2.js",
+    "service-worker.js": "/brswan/react-first-app/service-worker.js",
+    "static/css/2.5a4baa08.chunk.css.map": "/brswan/react-first-app/static/css/2.5a4baa08.chunk.css.map",
+    "static/js/2.0011b201.chunk.js.LICENSE": "/brswan/react-first-app/static/js/2.0011b201.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e23e02a.js",
+    "static/css/2.5a4baa08.chunk.css",
+    "static/js/2.0011b201.chunk.js",
+    "static/js/main.88b3e471.chunk.js"
+  ]
+}
