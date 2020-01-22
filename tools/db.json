@@ -72,35 +72,11 @@
     },
     {
       "id": 11,
-      "slug": "asdasdsa",
-      "title": "asdasdsa",
-      "authorId": 2,
+      "slug": "sdasdas",
+      "title": "sdasdas2",
+      "authorId": 1,
       "category": "asdasdas",
-      "createdAt": 1579561113197
-    },
-    {
-      "id": 12,
-      "slug": "zfsdf",
-      "title": "zfsdf",
-      "authorId": 2,
-      "category": "asdasd",
-      "createdAt": 1579561132885
-    },
-    {
-      "id": 13,
-      "slug": "sdasd",
-      "title": "sdasd",
-      "authorId": 2,
-      "category": "asdasd",
-      "createdAt": 1579561700008
-    },
-    {
-      "id": 14,
-      "slug": "sadasd",
-      "title": "sadasd",
-      "authorId": 2,
-      "category": "asdasd",
-      "createdAt": 1579561715616
+      "createdAt": 1579717267933
     }
   ],
   "authors": [
